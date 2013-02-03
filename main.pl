@@ -17,3 +17,4 @@ say "-"x40;
 $kid->kidprint;
 
 say "we re just testing git now!";
+say "more testing!"
