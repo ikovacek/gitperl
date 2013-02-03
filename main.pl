@@ -15,3 +15,5 @@ $kid->parent($person);
 $kid->print;
 say "-"x40;
 $kid->kidprint;
+
+say "we re just testing git now!";
